@@ -21,18 +21,18 @@
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│    ████████╗██╗  ██╗███████╗    ████████╗██╗  ██╗██╗███████╗  │
-│       ██╔══╝██║  ██║██╔════╝       ██╔══╝██║  ██║██║██╔════╝  │
-│       ██║   ███████║█████╗         ██║   ███████║██║█████╗    │
-│       ██║   ██╔══██║██╔══╝         ██║   ██╔══██║██║██╔══╝    │
-│       ██║   ██║  ██║███████╗       ██║   ██║  ██║██║██║       │
-│       ╚═╝   ╚═╝  ╚═╝╚══════╝       ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝       │
-│                                                                 │
-│              [ PHANTOM THIEF OF CLEAN CODE ]                  │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────────┐
+│                                                                            │
+│    ████████╗██╗  ██╗███████╗    ████████╗██╗  ██╗██╗ ███████╗  ███████╗    │
+│       ██╔══╝██║  ██║██╔════╝       ██╔══╝██║  ██║██║ ██╔════╝  ██╔════╝    │
+│       ██║   ███████║█████╗         ██║   ███████║██║ ██████╗   █████╗      │
+│       ██║   ██╔══██║██╔══╝         ██║   ██╔══██║██║ ██╔═══╝   ██╔══╝      │
+│       ██║   ██║  ██║███████╗       ██║   ██║  ██║██║ ███████╗  ██║         │
+│       ╚═╝   ╚═╝  ╚═╝╚══════╝       ╚═╝   ╚═╝  ╚═╝╚═╝ ╚══════╝  ╚═╝         │
+│                                                                            │
+│                    [ PHANTOM THIEF OF CLEAN CODE ]                         │
+│                                                                            │
+└────────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -230,28 +230,6 @@ philosophy: >
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200"/>
 </div>
-
----
-
-## `◈ 07 // CONNECT`
-
-<div align="center">
-
-<a href="YOUR_LINKEDIN_URL_HERE">
-  <img src="https://img.shields.io/badge/LinkedIn-CONNECT-E63946?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
-</a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL_HERE">
-  <img src="https://img.shields.io/badge/Email-REACH_OUT-ffffff?style=for-the-badge&logo=gmail&logoColor=E63946&labelColor=000000" />
-</a>
-&nbsp;
-<a href="https://github.com/GutzRogue">
-  <img src="https://img.shields.io/badge/GitHub-FOLLOW-E63946?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-</a>
-
-</div>
-
----
 
 <div align="center">
 
