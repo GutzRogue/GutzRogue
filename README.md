@@ -1,155 +1,260 @@
-<p align="center">
-  <img src="GutzRogue" alt="Persona 5 Banner" width="100%" />
-</p>
+<div align="center">
 
-<h1 align="center">AMULVARO</h1>
-<h3 align="center">Code with style. Build with intent. Learn without limits.</h3>
+<!-- PERSONA STYLE HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=AMULVARO&fontSize=80&fontColor=E63946&animation=fadeIn&fontAlignY=38&desc=Code%20with%20style.%20Build%20with%20intent.%20Learn%20without%20limits.&descAlignY=60&descAlign=50&descColor=ffffff&descSize=16" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=E63946&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full-Stack+Developer;Angular+%2B+Spring+Boot;Game+Development+Enjoyer;Future+Quantum+Computing+Builder" alt="Typing Animation" />
-</p>
+<!-- PERSONA-STYLE SUBTITLE -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=2500&pause=800&color=E63946&center=true&vCenter=true&repeat=true&width=750&lines=%E2%96%B6+SYSTEM+BOOT...+IDENTITY+LOADED;%E2%96%B6+Computer+Science+Student;%E2%96%B6+Full-Stack+Developer;%E2%96%B6+Angular+%2B+Spring+Boot+Architect;%E2%96%B6+Game+Development+Enjoyer;%E2%96%B6+Rust+%26+Systems+Programming;%E2%96%B6+PERSONA+ACTIVATED." alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GutzRogue&label=PROFILE+VIEWS&color=red&style=for-the-badge" alt="Profile views" />
-</p>
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=GutzRogue&label=PHANTOM+THIEVES+VIEWS&color=E63946&style=for-the-badge)
+&nbsp;
+![](https://img.shields.io/badge/STATUS-AWAKENED-E63946?style=for-the-badge&labelColor=000000)
+&nbsp;
+![](https://img.shields.io/badge/CODENAME-AMULVARO-ffffff?style=for-the-badge&labelColor=E63946)
+
+</div>
 
 ---
 
-## 01 // ABOUT_ME.exe
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│    ████████╗██╗  ██╗███████╗    ████████╗██╗  ██╗██╗███████╗  │
+│       ██╔══╝██║  ██║██╔════╝       ██╔══╝██║  ██║██║██╔════╝  │
+│       ██║   ███████║█████╗         ██║   ███████║██║█████╗    │
+│       ██║   ██╔══██║██╔══╝         ██║   ██╔══██║██║██╔══╝    │
+│       ██║   ██║  ██║███████╗       ██║   ██║  ██║██║██║       │
+│       ╚═╝   ╚═╝  ╚═╝╚══════╝       ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝       │
+│                                                                 │
+│              [ PHANTOM THIEF OF CLEAN CODE ]                  │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## `◈ 01 // PERSONA_CARD`
+
+<table>
+<tr>
+<td width="50%">
 
 ```diff
-+ Computer science student
-+ Full-stack focused
-+ Drawn to systems, structure, and clean implementation
-+ Curious about quantum computing and deeper technical concepts
-+ Interested in building projects that feel both useful and memorable
+╔══════════════════════════════════╗
+║        PERSONA STATUS            ║
+╠══════════════════════════════════╣
++ NAME      : AMULVARO
++ ROLE      : Full-Stack Developer
++ CODENAME  : GutzRogue
++ ARCANA    : The Tower (Builder)
++ STATUS    : AWAKENED
++ WEAPON    : Clean Architecture
++ SPECIAL   : Systems Thinking
+╚══════════════════════════════════╝
 ```
 
-I like creating projects that have identity.  
-Not just something functional, but something that feels sharp, intentional, and well put together.
-
-My main focus is building with a balance of:
-
-- solid logic
-- clean architecture
-- scalable foundations
-- visual personality
-
----
-
-## 02 // STYLE_AND_APPROACH
-
-<p align="center">
-  <img src="YOUR_SECTION_GIF_URL_HERE" alt="Persona style divider gif" width="85%" />
-</p>
-
-I enjoy code that feels structured and readable, and interfaces that feel alive instead of generic.
-
-A lot of what I build sits somewhere between:
-
-- engineering and creativity
-- game logic and application logic
-- clean systems and expressive design
-
----
-
-## 03 // TECH_STACK
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,angular,html,css,git,github" />
-</p>
-
-<p align="center">
-  <img src="YOUR_TECH_GIF_URL_HERE" alt="Animated tech section gif" width="70%" />
-</p>
-
----
-
-## 04 // WHAT_I_ENJOY_BUILDING
-
-- full-stack application development  
-- interactive systems  
-- game mechanics and design logic  
-- multi-feature platforms with room to grow  
-- strong visual direction  
-- deep technical exploration (quantum computing)
-
----
-
-## 05 // CURRENT_DIRECTION
-
-<p align="center">
-  <img src="YOUR_ANIMATED_BREAK_GIF_URL_HERE" alt="Animated divider" width="80%" />
-</p>
-
-Growing toward building complete experiences:
-- backend logic  
-- frontend structure  
-- cohesive visual identity  
-
----
-
-## 06 // INTERESTS
+</td>
+<td width="50%">
 
 ```yaml
-focus:
-  - full-stack development
-  - scalable project structure
-  - UI personality
-  - game development
-  - quantum computing
+# profile.yml
 
-mindset:
-  - keep learning
-  - keep building
-  - make it clean
-  - make it memorable
+identity:
+  type: Computer Science Student
+  focus: Full-Stack Engineering
+  style: Sharp. Intentional. Memorable.
+
+interests:
+  - Game Development
+  - Systems Architecture
+  - UI Personality
+
+philosophy: >
+  Don't build forgettable things.
+  Make it solid. Make it sharp.
+  Make it worth remembering.
 ```
 
----
+</td>
+</tr>
+</table>
 
-## 07 // GITHUB_STATS
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"/>
+</div>
 
 ---
 
-## 08 // VISUAL_BREAK
+## `◈ 02 // TECH_ARSENAL`
 
-<p align="center">
-  <img src="YOUR_PERSONA_GIF_URL_HERE" alt="Persona inspired gif" width="75%" />
-</p>
+<div align="center">
+
+### ⚔ LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,c,rust,html,css&theme=dark" />
+
+### 🛡 FRAMEWORKS & LIBRARIES
+
+<img src="https://skillicons.dev/icons?i=spring,angular,nodejs&theme=dark" />
+
+### 🗄 DATABASES & BACKEND SERVICES
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase&theme=dark" />
+
+### 🔧 TOOLS & ENVIRONMENTS
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux&theme=dark" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| Layer | Technologies |
+|:---|:---|
+| **Backend** | `Java` · `Spring Boot` · `Rust` · `C` · `Node.js` |
+| **Frontend** | `Angular` · `TypeScript` · `HTML5` · `CSS3` |
+| **Database** | `PostgreSQL` · `MySQL` · `MongoDB` · `Supabase` |
+| **Systems** | `C` · `Rust` · `Linux` · `Docker` |
+| **Exploring** | `WebAssembly` · `Game Engines` · `Low-Level Systems` |
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
+</div>
 
 ---
 
-## 09 // PHILOSOPHY
+## `◈ 03 // COMBAT_SKILLS`
 
-I do not want to build forgettable things.
+<div align="center">
 
-Projects should be technically solid, visually sharp, and clearly intentional.
+```
+┌──────────────────────────────────────────────────────────────┐
+│                    SKILL TREE — UNLOCKED                     │
+├──────────────────────┬───────────────────────────────────────┤
+│  FULL-STACK          │  ████████████████████  MAX            │
+│  SPRING BOOT         │  ████████████████░░░░  LVL 8          │
+│  ANGULAR             │  ███████████████░░░░░  LVL 7          │
+│  SUPABASE / DB       │  █████████████░░░░░░░  LVL 6          │
+│  RUST                │  ██████████░░░░░░░░░░  LVL 5  ↑       │
+│  C / SYSTEMS         │  █████████░░░░░░░░░░░  LVL 4  ↑       │
+│  GAME DEV            │  ████████░░░░░░░░░░░░  LVL 4          │
+└──────────────────────┴───────────────────────────────────────┘
+```
+
+</div>
 
 ---
 
-## 10 // CONNECT
+## `◈ 04 // WHAT_I_BUILD`
 
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL_HERE">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-red?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-black?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%">
+
+### 🏗 Engineering
+- Full-stack applications (Angular + Spring Boot)
+- RESTful APIs with clean architecture
+- Database design with PostgreSQL & Supabase
+- Systems-level work in C & Rust
+- Scalable backend services
+
+</td>
+<td width="50%">
+
+### 🎮 Creative
+- Game mechanics and design logic
+- Interactive front-end experiences
+- Visual identity and UI personality
+- Multi-feature platforms with room to grow
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="450"/>
+</div>
 
 ---
 
-<p align="center">
-  <b>Steal the future. Build something worth remembering.</b>
-</p>
+## `◈ 05 // GITHUB_VAULT`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=GutzRogue&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=E63946&icon_color=E63946&text_color=ffffff&bg_color=0d1117" />
+&nbsp;&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GutzRogue&layout=compact&theme=tokyonight&hide_border=true&title_color=E63946&text_color=ffffff&bg_color=0d1117" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GutzRogue&theme=tokyonight&hide_border=true&ring=E63946&fire=E63946&currStreakLabel=E63946&background=0d1117" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GutzRogue&bg_color=0d1117&color=E63946&line=E63946&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## `◈ 06 // PHILOSOPHY`
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║    "I do not want to build forgettable things."               ║
+║                                                               ║
+║     Projects should be technically solid,                     ║
+║     visually sharp, and clearly intentional.                  ║
+║                                                               ║
+║     Not just something functional —                           ║
+║     something that feels sharp, alive, and well put together. ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200"/>
+</div>
+
+---
+
+## `◈ 07 // CONNECT`
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL_HERE">
+  <img src="https://img.shields.io/badge/LinkedIn-CONNECT-E63946?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL_HERE">
+  <img src="https://img.shields.io/badge/Email-REACH_OUT-ffffff?style=for-the-badge&logo=gmail&logoColor=E63946&labelColor=000000" />
+</a>
+&nbsp;
+<a href="https://github.com/GutzRogue">
+  <img src="https://img.shields.io/badge/GitHub-FOLLOW-E63946?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Steal+the+future.+Build+something+worth+remembering.&fontSize=16&fontColor=E63946&animation=fadeIn&fontAlignY=65" width="100%"/>
+
+</div>
